@@ -9,10 +9,10 @@
 # Installation
 
 ## Step 1 
-1. Project https://github.com/dexbytesinfotech/laravel-api should be pre-installed in your server or machine
+1. Project https://github.com/namth3061/forex-api should be pre-installed in your server or machine
 
 ## Step 2
-1. Run git clone https://github.com/dexbytesinfotech/livewire.git livewire-admin-panel
+1. Run git clone https://github.com/namth3061/forex forex
 2. From the projects root run `cp .env.example .env`
 3. Configure your `.env` file 
 4. Use a same api database (https://github.com/dexbytesinfotech/laravel-api) for the project 
